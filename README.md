@@ -1,2 +1,2 @@
 # fashion_blog_website
-A simple fashion blog website using my HTML learning skills
+A simple Fashion Blog Website using my HTML learning skills
